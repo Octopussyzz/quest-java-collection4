@@ -1,3 +1,5 @@
+import java.util.Comparator;
+
 public class Hero {
 
     private String name;
